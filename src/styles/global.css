@@ -1,0 +1,11 @@
+.horizontal-boxes {
+    display: flex;
+    gap: 1rem;
+}
+
+.full-width-image {
+    width: 105ch;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0,5rem;
+}
